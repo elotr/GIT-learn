@@ -3,6 +3,7 @@
 24. commit. Branch branch_3
 25. commit. Branch branch_3
 26. commit. Branch branch_3
+27. commit. Branch branch_3
 
 15. commit. Branch branch_2
 16. commit. Branch branch_2
