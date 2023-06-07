@@ -9,6 +9,6 @@
 16. commit. Branch branch_2, lisa
 17. commit. Branch branch_2, lisa
 18. commit. Branch branch_2, lisa
-19. commit. Branch branch_2
+19. commit. Branch branch_2, lisa
 20. commit. Branch branch_2
 21. commit. Branch branch_2
