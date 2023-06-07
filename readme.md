@@ -6,11 +6,11 @@
 6. commit. Branch main
 7. commit. Branch main
 
-8. commit. Branch branch_1
-9. commit. Branch branch_1
-10. commit. Branch branch_1
-11. commit. Branch branch_1
-12. commit. Branch branch_1
-13. commit. Branch branch_1
-14. commit. Branch branch_1
+8. commit. Branch branch_1, lisa
+9. commit. Branch branch_1, lisa
+10. commit. Branch branch_1, lisa
+11. commit. Branch branch_1, lisa
+12. commit. Branch branch_1, lisa
+13. commit. Branch branch_1, lisa
+14. commit. Branch branch_1, lisa
 
